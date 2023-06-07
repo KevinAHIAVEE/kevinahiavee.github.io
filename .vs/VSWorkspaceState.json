@@ -2,12 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\phenomenonstudio.com",
-    "\\phenomenonstudio.com\\wp-content",
-    "\\phenomenonstudio.com\\wp-content\\themes",
     "\\phenomenonstudio.com\\wp-content\\themes\\phenomenon",
-    "\\phenomenonstudio.com\\wp-content\\themes\\phenomenon\\css",
-    "\\phenomenonstudio.com\\wp-json\\oembed\\1.0"
+    "\\phenomenonstudio.com\\wp-content\\themes\\phenomenon\\css"
   ],
-  "SelectedNode": "\\phenomenonstudio.com\\wp-content\\themes\\phenomenon\\css\\main.css",
+  "SelectedNode": "\\phenomenonstudio.com\\index.html",
   "PreviewInSolutionExplorer": false
 }
